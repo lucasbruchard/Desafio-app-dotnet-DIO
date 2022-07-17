@@ -1,0 +1,15 @@
+C:\workspace\Desafio-dotnet\bin\Debug\net6.0\Desafio-dotnet.exe
+C:\workspace\Desafio-dotnet\bin\Debug\net6.0\Desafio-dotnet.deps.json
+C:\workspace\Desafio-dotnet\bin\Debug\net6.0\Desafio-dotnet.runtimeconfig.json
+C:\workspace\Desafio-dotnet\bin\Debug\net6.0\Desafio-dotnet.dll
+C:\workspace\Desafio-dotnet\bin\Debug\net6.0\Desafio-dotnet.pdb
+C:\workspace\Desafio-dotnet\obj\Debug\net6.0\Desafio-dotnet.csproj.AssemblyReference.cache
+C:\workspace\Desafio-dotnet\obj\Debug\net6.0\Desafio-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Desafio-dotnet\obj\Debug\net6.0\Desafio-dotnet.AssemblyInfoInputs.cache
+C:\workspace\Desafio-dotnet\obj\Debug\net6.0\Desafio-dotnet.AssemblyInfo.cs
+C:\workspace\Desafio-dotnet\obj\Debug\net6.0\Desafio-dotnet.csproj.CoreCompileInputs.cache
+C:\workspace\Desafio-dotnet\obj\Debug\net6.0\Desafio-dotnet.dll
+C:\workspace\Desafio-dotnet\obj\Debug\net6.0\refint\Desafio-dotnet.dll
+C:\workspace\Desafio-dotnet\obj\Debug\net6.0\Desafio-dotnet.pdb
+C:\workspace\Desafio-dotnet\obj\Debug\net6.0\Desafio-dotnet.genruntimeconfig.cache
+C:\workspace\Desafio-dotnet\obj\Debug\net6.0\ref\Desafio-dotnet.dll
