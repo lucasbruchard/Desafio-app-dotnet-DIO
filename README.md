@@ -1,2 +1,3 @@
-#DESAFIO APP DE SÉRIES DOTNET
-##Esse projeto se trata do desafio de projeto da DIO para o fim de criar app de séries pelo .NET.
+DESAFIO APP DE SÃ‰RIES DOTNET
+
+Esse projeto se trata do desafio de projeto da DIO para o fim de criar app de sÃ©ries pelo .NET.
